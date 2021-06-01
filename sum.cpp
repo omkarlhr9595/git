@@ -5,7 +5,7 @@ int main()
     int a,b,sum;
     a=3;
     b=2;
-    sum=a+b;//lol
+    sum=a+b;//add
     cout<<sum;
     return 0;
 }
